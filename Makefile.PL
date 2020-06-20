@@ -5,6 +5,7 @@ WriteMakefile(
     NAME             => 'Lingua::Stem',
     VERSION_FROM     => 'lib/Lingua/Stem.pm',
     MIN_PERL_VERSION => '5.006',
+    LICENSE          => 'perl_5',
     PREREQ_PM        => { 
               'warnings'                   => 0,
               'Lingua::Stem::Snowball::No' => '1.00',
@@ -23,8 +24,8 @@ WriteMakefile(
            bugtracker => {
                 web  => 'https://github.com/JerilynFranz/perl-Lingua-Stem/issues',
             },
-            homepage => 'https://github.com/JerilynFranz/perl-Lingua-Stem',
-            licenses => [ 'http://dev.perl.org/licenses/' ],
+            homepage   => 'https://github.com/JerilynFranz/perl-Lingua-Stem',
+            license    => ['http://dev.perl.org/licenses/'],
             repository => {
                 type => 'git',
                 url  => 'https://github.com/JerilynFranz/perl-Lingua-Stem.git',
