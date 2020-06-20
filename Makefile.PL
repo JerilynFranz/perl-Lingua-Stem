@@ -24,6 +24,7 @@ WriteMakefile(
                 web  => 'https://github.com/JerilynFranz/perl-Lingua-Stem/issues',
             },
             homepage => 'https://github.com/JerilynFranz/perl-Lingua-Stem',
+            licenses => [ 'http://dev.perl.org/licenses/' ],
             repository => {
                 type => 'git',
                 url  => 'https://github.com/JerilynFranz/perl-Lingua-Stem.git',
