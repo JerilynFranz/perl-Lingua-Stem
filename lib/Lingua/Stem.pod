@@ -485,7 +485,7 @@ family stemming, use lower case words, only, for exceptions.
  xern                       <xern@cpan.org>
  Ask Solem Hoel             <ask@unixmonks.net>
  Dennis Haney               <davh@davh.dk>
- Sébastien Darribere-Pleyt  <sebastien.darribere@lefute.com>
+ SÃ©bastien Darribere-Pleyt  <sebastien.darribere@lefute.com>
  Aleksandr Guidrevitch      <pillgrim@mail.ru>
 
 =head1 SEE ALSO
